@@ -1,0 +1,25 @@
+=== EXPERIMENTO: BUSCA EM LISTA VS DICIONÁRIO (POR BLOCOS) ===
+
+Elementos: 7,000,000
+Buscas totais: 4,000,000
+Número de blocos: 4
+
+=== ESTATÍSTICAS GLOBAIS - LISTA ===
+n: 4000000.0
+media: 105.399175
+mediana: 100.0
+pstdev: 812.1686409910933
+q1: 100.0
+q3: 100.0
+min: 0.0
+max: 754400.0
+
+=== ESTATÍSTICAS GLOBAIS - DICIONÁRIO ===
+n: 4000000.0
+media: 644.161125
+mediana: 500.0
+pstdev: 1978.537916629028
+q1: 400.0
+q3: 700.0
+min: 0.0
+max: 1633900.0
