@@ -4,6 +4,7 @@ Este repositório contém todos os scripts, resultados e gráficos utilizados no
 Abaixo está um resumo simples da função de cada arquivo.
 
 📌 Scripts Python
+
 experimento_busca.py
 
 Realiza o experimento principal: gera valores aleatórios, monta lista e dicionário, executa buscas e registra os tempos.
@@ -25,6 +26,7 @@ gerar_boxplot_blocos.py
 Cria boxplots divididos em blocos (grupos de linhas) para estudar variações internas da distribuição.
 
 📊 Arquivos de Resultados (CSV / TXT)
+
 resultados_amostras.csv
 
 Contém todos os dados brutos do experimento: valor buscado, tempo na lista e tempo no dicionário.
@@ -46,6 +48,7 @@ resultados_console.txt
 Saída completa do experimento, incluindo estatísticas e teste t exibidos no terminal.
 
 📈 Gráficos Gerados
+
 histograma.png
 
 Histograma comparando a distribuição dos tempos de busca.
@@ -61,3 +64,4 @@ Boxplot geral com listas e dicionários lado a lado.
 boxplot_blocos.png
 
 Boxplot dividido por blocos (ex.: blocos de 50 ou 100 amostras).
+
